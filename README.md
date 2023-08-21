@@ -20,11 +20,11 @@
     <br />
     <a href="https://mdl-verifier.mynext.id">View Demo</a>
     ·
-    <a href="issues">Report Bug</a>
+    <a href="https://github.com/MyNextID/mDL-verifier/issues">Report Bug</a>
     ·
-    <a href="issues">Request Feature</a>
+    <a href="https://github.com/MyNextID/mDL-verifier/issues">Request Feature</a>
     ·
-    <a href="mailto:info@mynext.id">Contact Us</a>
+    <a href="mailto:development@mynext.id">Contact Us</a>
     ·
     <a href="RELEASE_NOTES.md">Release Notes</a>
   </p>
@@ -50,7 +50,7 @@ mDL solutions, or simply interested in understanding how mDLs work, our reader
 provides a powerful and user-friendly interface for interacting with mDL data.
 
 For production use or if you have specific requirements beyond testing and
-demonstration, please [contact us](mailto:info@mynext.id). Our
+demonstration, please [contact us](mailto:development@mynext.id). Our
 team will be happy to assist you in integrating the MyNextID mDL Reader into
 your production environment and meeting your specific needs.
 
@@ -103,13 +103,12 @@ Stay up-to-date with the latest changes and improvements by checking out our
 ## Contributing
 
 We welcome contributions from the community to enhance the MyNextID mDL Reader.
-Whether it's bug fixes, new feature requests, or documentation improvements,
-your input is valuable. Please review our [Contribution
+Your input is valuable, whether it's bug fixes, new feature requests, or documentation improvements. Please review our [Contribution
 Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
-Content of this repository is licensed under the [MIT License](LICENSE). You are free
+The content of this repository is licensed under the [MIT License](LICENSE). You are free
 to use, modify, and distribute this software in accordance with the terms
 specified in the license.
 
