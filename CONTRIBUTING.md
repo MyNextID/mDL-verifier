@@ -22,7 +22,7 @@ MyNextID mDL Reader, your input can be invaluable in improving the software. To
 report a bug, follow these steps:
 
 1. **Check Existing Issues**: Before creating a new bug report, browse our
-[issue tracker](https://github.com/MyNextID/mDL-Reader/issues) to see if someone
+[issue tracker](https://github.com/MyNextID/mDL-verifier/issues) to see if someone
 has already reported the same issue. If you find a similar report, add any
 relevant information to help us better understand the problem.
 
@@ -39,7 +39,7 @@ them with us. Your suggestions can shape the future of the MyNextID mDL Reader.
 To suggest a feature, follow these steps:
 
 1. **Check Existing Requests**: Browse our [issue
-tracker](https://github.com/MyNextID/mDL-Reader/issues) to verify that your
+tracker](https://github.com/MyNextID/mDL-verifier/issues) to verify that your
 feature request hasn't already been submitted. If you find a similar request,
 you can add your thoughts and comments to that existing issue.
 
@@ -55,7 +55,7 @@ come across areas where documentation can be clearer or more comprehensive, or
 if you'd like to contribute new documentation, follow these steps:
 
 1. **Review Existing Documentation**: Check the [GitHub
-repository](https://github.com/MyNextID/mDL-Reader) for documentation files,
+repository](https://github.com/MyNextID/mDL-verifier/tree/main) for documentation files,
 in Markdown format.
 
 2. **Make Improvements**: Make your desired changes or additions to the
@@ -67,14 +67,14 @@ merge your contributions.
 
 ## Issue Tracking
 
-Our [GitHub issue tracker](https://github.com/MyNextID/mDL-Reader/issues) is the
+Our [GitHub issue tracker](https://github.com/MyNextID/mDL-verifier/issues) is the
 central hub for bug reports, feature requests, and project discussions. Use it
 to report issues or engage in discussions related to the project.
 
 ## Security Concerns
 
 If you discover any security vulnerabilities in the MyNextID mDL Reader, please
-report them promptly to [security@mynext.id](mailto:security@mynext.id). We take
+report them promptly to [development@mynext.id](mailto:development@mynext.id). We take
 security seriously and will investigate and address issues urgently.
 
 ## License
