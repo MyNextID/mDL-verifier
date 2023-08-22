@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/your-username/repo-name">
+  <a href="https://github.com/MyNextID/mDL-verifier">
     <img src="https://mynext.id/wp-content/uploads/2022/04/logo_mynextID.svg" alt="Logo" width="80" height="80">
   </a>
 
