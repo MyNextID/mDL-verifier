@@ -42,13 +42,12 @@ mDL Reader during the mDL verification process:
 | Step Number | Verification Action                | Description                                                      |
 |-------------|-----------------------------------|------------------------------------------------------------------|
 | 1           | Connect to mDL                    | Establish a secure connection to the mDL for data retrieval.     |
-| 2           | Decode mDL Data                   | Decode the data within the mDL to extract relevant information.   |
+| 2           | Decode / decrpyt mDL Data         | Decode or decrypt the data within the mDL to extract relevant information.   |
 | 3           | Verify Digital Signature          | Verify the digital signature on the mDL to confirm its authenticity. |
 | 4           | Check mDL Expiry                  | Ensure that the mDL has not expired and is valid for use.        |
 | 5           | Verify Issuer Signature           | Verify the issuer's digital signature on the mDL data.           |
-| 6           | Compare Data with mDL Holder Info | Compare the mDL data with the holder's information for consistency. |
-| 7           | Validate mDL Holder Presence      | Confirm that the mDL holder is present during the verification.  |
-| 8           | Authorize Access                  | Grant access to authorized parties based on successful verification. |
+| 6           | Validate received data            | Check if the response includes all requested namespaces and data elements in the correct format, and no extraneous namespaces or elements. |
+| 7           | Validate mDL Holder Data          | Check if mDL Holder data corresponds with signed issuer data.  |
 
 These verification steps ensure that the MyNextID mDL Reader can reliably and
 securely verify the authenticity and validity of mobile driver's licenses,
