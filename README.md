@@ -15,7 +15,7 @@
   testing and demonstration purposes and is fully compatible with the ISO standard
   for Mobile Driver's Licenses (mDL).
     <br />
-    <a href="docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MyNextID/mDL-verifier/tree/main/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://mdl-verifier.mynext.id">View Demo</a>
