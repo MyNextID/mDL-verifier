@@ -4,6 +4,7 @@
   - [Version 1.0.0 - Initial Release (June, 2023)](#version-100---initial-release-june-2023)
   - [Version 1.0.1 - Interop-event Updates (August, 2023)](#version-101---interop-event-updates-august-2023)
   - [Version 1.0.2 - Interop-event Updates (August, 2023)](#version-102---interop-event-updates-part-2-august-2023)
+  - [Version 1.0.3 - Interop-event Updates (August, 2023)](#version-103---interop-event-updates-part-3-august-2023)
 
 ## Version 1.0.0 - Initial Release (June, 2023)
 
@@ -49,6 +50,12 @@ reliable identity verification tools.
 - **JWE decryption fixed**: We have fixed an issue, with JWE decryption: go-jose/go-jose: error in cryptographic primitive
 - **unknown Doctype**: in case of doctypes being present in issuerAuth, but not in nameSpaces used to throw an error, which should be normal and expected behaviour.
 - **incorrect response_uri**: In some cases, users recieved an incorrect response_uri, this issue has been fixed.
+
+## Version 1.0.3 - Interop-event Updates part 3 (August, 2023)
+
+### New Features
+
+- **Verifier Data and Security Check**: Added support for **V_DATA_3** Data and Security Check. Verifier now checks if `vp_token`, provided in AuthorizationResponseObject, includes all requested namespaces and data element identifiers. Verifier also checks if response doesn't contain extraneous namespaces or elements.
 
 ---
 
