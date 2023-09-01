@@ -29,4 +29,4 @@ Here you can find the following documentation:
 - [Verification: Root CA x509 Certificate](verification-x509-root-ca.md)
 - [Verification: mDL Reader x509 Certificate](verification-x509-mdl-reader.md)
 - [Verification: mDL Document Signer x509 Certificate](verification-x509-document-signer.md)
-- [Download ZIP with MyNextID mDL Reader x509 Certificate | PEM and DER format](reader_cert_mynextid.zip)
+- [MyNextID mDL Reader Certificates](https://github.com/MyNextID/mDL-verifier/tree/main/certificates/2023-interop-spruce-aamva)
