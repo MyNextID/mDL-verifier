@@ -7,7 +7,7 @@
 
   <h3 align="center">MyNextID mDL Reader Web App</h3>
   <p align="center">
-  Version 1.0.2
+  Version 1.0.3
   </p>
 
   <p align="center">
