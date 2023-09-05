@@ -5,6 +5,7 @@
   - [Version 1.0.1 - Interop-event Updates (August, 2023)](#version-101---interop-event-updates-august-2023)
   - [Version 1.0.2 - Interop-event Updates (August, 2023)](#version-102---interop-event-updates-part-2-august-2023)
   - [Version 1.0.3 - Interop-event Updates (August, 2023)](#version-103---interop-event-updates-part-3-august-2023)
+  - [Version 1.0.4 - Interop-event Updates (August, 2023)](#version-104---interop-event-updates-part-4-august-2023)
 
 ## Version 1.0.0 - Initial Release (June, 2023)
 
@@ -56,6 +57,13 @@ reliable identity verification tools.
 ### New Features
 
 - **Verifier Data and Security Check**: Added support for **V_DATA_3** Data and Security Check. Verifier now checks if `vp_token`, provided in AuthorizationResponseObject, includes all requested namespaces and data element identifiers. Verifier also checks if response doesn't contain extraneous namespaces or elements.
+
+## Version 1.0.4 - Interop-event Updates part 4 (September, 2023)
+
+### New Features
+
+- **Issuer data authentication step**: Added step in issuer data authentication. Mdoc reader now validates  the certificate included in the MSO header. Certificate is validated using distributed X.509 IACA certificates provided by SprouseID.
+- **mdoc Authentication Support**: Added support for mdoc authentication - **Security check V_SEC_3**. Mdoc reader now supports **mdoc ECDSA / EdDSA Authentication**. mdoc Reader verifies signature element in an **untagged COSE_Sign1** structure as defined in RFC 8152 and identified as `DeviceSignature`.
 
 ---
 
