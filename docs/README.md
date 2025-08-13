@@ -17,7 +17,7 @@
     ·
     <a href="https://github.com/MyNextID/mDL-verifier/issues">Request Feature</a>
     .
-    <a href="mailto:development@mynext.id">Contact Us</a>
+    <a href="mailto:info@mynext.id">Contact Us</a>
   </p>
 </p>
 

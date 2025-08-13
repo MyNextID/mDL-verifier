@@ -24,7 +24,7 @@
     ·
     <a href="https://github.com/MyNextID/mDL-verifier/issues">Request Feature</a>
     ·
-    <a href="mailto:development@mynext.id">Contact Us</a>
+    <a href="mailto:info@mynext.id">Contact Us</a>
     ·
     <a href="RELEASE_NOTES.md">Release Notes</a>
   </p>
@@ -35,6 +35,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [About MyNextID mDL Reader](#about-mynextid-mdl-reader)
+  - [Key Features](#key-features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Release Notes](#release-notes)
@@ -50,7 +51,7 @@ mDL solutions, or simply interested in understanding how mDLs work, our reader
 provides a powerful and user-friendly interface for interacting with mDL data.
 
 For production use or if you have specific requirements beyond testing and
-demonstration, please [contact us](mailto:development@mynext.id). Our
+demonstration, please [contact us](mailto:info@mynext.id). Our
 team will be happy to assist you in integrating the MyNextID mDL Reader into
 your production environment and meeting your specific needs.
 

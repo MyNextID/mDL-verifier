@@ -74,7 +74,7 @@ to report issues or engage in discussions related to the project.
 ## Security Concerns
 
 If you discover any security vulnerabilities in the MyNextID mDL Reader, please
-report them promptly to [development@mynext.id](mailto:development@mynext.id). We take
+report them promptly to [info@mynext.id](mailto:info@mynext.id). We take
 security seriously and will investigate and address issues urgently.
 
 ## License
